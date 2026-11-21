@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Core/MineCore.Core.csproj" />
+  <Project Path="Minecraft/MineCore.Minecraft.csproj" />
+  <Project Path="MineCore.Launcher/MineCore.Launcher.csproj" />
+  <Project Path="Installer/Installer.csproj" />
+</Solution>
